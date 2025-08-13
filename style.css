@@ -14,6 +14,9 @@
     --gray: #888888;
     --light-gray: #eaeaea;
     --transition: all 0.3s ease;
+    --header-padding: 1rem;
+    --logo-height: 80px;
+    --header-height: calc(2 * var(--header-padding) + var(--logo-height));
 }
 
 body {
@@ -100,31 +103,38 @@ section {
 
 /* ===== HEADER ===== */
 header {
-    background-color: var(--dark);
+    background-color: rgba(0, 0, 0, 0.4); /* semi-transparent black */
+    background-image: url('https://www.transparenttextures.com/patterns/noise.png');
+    background-size: 40px 40px;
+    background-repeat: repeat;
+    background-blend-mode: overlay;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px); /* Safari support */
     padding: 1rem 0;
-    position: sticky;
+    position: absolute; /* Changed from sticky */
     top: 0;
+    left: 0;
+    width: 100%;
     z-index: 100;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 
 .header-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 
-.logo {
-    font-family: 'Playfair Display', serif;
-    font-size: 2rem;
-    color: var(--accent-gold);
-    text-decoration: none;
-    font-weight: 700;
+.logo img {
+    height: 80px;
+    width: auto;
+    display: block;
 }
 
-.logo span {
-    color: var(--accent-red);
-}
+
+
+
+
 
 /* ===== BANNER SECTION ===== */
 .banner {
@@ -134,6 +144,8 @@ header {
     overflow: hidden;
     display: flex;
     align-items: center;
+    padding-top: 92px; /* Matches header height to prevent content overlap */
+    box-sizing: border-box; /* Ensure padding is included in height */
 }
 
 .video-container {
