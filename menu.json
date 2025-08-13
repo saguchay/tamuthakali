@@ -11,7 +11,7 @@
     },
     {
       "id": "break002",
-      "image": "images/buff_momo.jpg",
+      "image": "images/blacktea.jpg",
       "title": "Black Tea",
       "shortDescription": "Enhanced set with additional meat options.",
       "fullDescription": "Our premium Thakali experience includes all components of the Classic Set plus your choice of chicken, mutton, or fish curry. Served with special mountain herbs tea.",
@@ -22,27 +22,27 @@
       "id": "break003",
       "image": "images/deluxe_set.jpg",
       "title": "Phapar ko Roti + Aalu Dam",
-      "shortDescription": "Enhanced set with additional meat options.",
-      "fullDescription": "Our premium Thakali experience includes all components of the Classic Set plus your choice of chicken, mutton, or fish curry. Served with special mountain herbs tea.",
-      "features": ["Choice of meat curry", "Extra side dishes", "Herbal mountain tea", "Traditional dessert"],
+      "shortDescription": "Buckwheat flatbread with spicy potato curry.",
+      "fullDescription": "Nutritious buckwheat flatbread served alongside a flavorful and spicy potato curry (Aalu Dam).",
+      "features": ["Gluten-free buckwheat", "Spicy potato curry", "Traditional Nepali staple"],
       "price": "Rs. 300/-"
     },
     {
       "id": "break004",
-      "image": "images/deluxe_set.jpg",
+      "image": "images/selroti.png",
       "title": "Sel Roti + Aalu Dam",
-      "shortDescription": "Enhanced set with additional meat options.",
-      "fullDescription": "Our premium Thakali experience includes all components of the Classic Set plus your choice of chicken, mutton, or fish curry. Served with special mountain herbs tea.",
-      "features": ["Choice of meat curry", "Extra side dishes", "Herbal mountain tea", "Traditional dessert"],
+      "shortDescription": "Sweet rice doughnut with spicy potato curry.",
+      "fullDescription": "Crispy on the outside, soft on the inside traditional Nepali rice doughnuts paired with a hearty and spicy potato curry (Aalu Dam).",
+      "features": ["Homemade sel roti", "Sweet & savory combo", "Authentic pairing"],
       "price": "Rs. 250/-"
     },
     {
       "id": "break005",
       "image": "images/thakali_set.jpg",
       "title": "Kanchenbo (Buck Wheat Fry)",
-      "shortDescription": "Dal, bhat, tarkari, achar, gundruk.",
-      "fullDescription": "A traditional Nepali Thakali meal with steamed rice, lentil soup, seasonal vegetables, spicy pickle, and fermented leafy greens. Served with complementary curd and papad.",
-      "features": ["Fresh organic vegetables", "Homemade achar", "Authentic gundruk", "Locally sourced rice"],
+      "shortDescription": "Stir-fried buckwheat noodles/grains with vegetables.",
+      "fullDescription": "A wholesome and nutty stir-fry featuring buckwheat noodles or grains sautéed with fresh seasonal vegetables.",
+      "features": ["Nutritious buckwheat", "Fresh seasonal veggies", "Stir-fried to perfection"],
       "price": "Rs. 300/-"
     }
   ],
@@ -50,10 +50,10 @@
     {
       "id": "TK001",
       "image": "images/thakali_set.jpg",
-      "title": "Veg Khana (set)",
-      "shortDescription": "Dal, bhat, tarkari, achar, gundruk.",
-      "fullDescription": "A traditional Nepali Thakali meal with steamed rice, lentil soup, seasonal vegetables, spicy pickle, and fermented leafy greens. Served with complementary curd and papad.",
-      "features": ["Fresh organic vegetables", "Homemade achar", "Authentic gundruk", "Locally sourced rice"],
+      "title": "Thakali Veg Khana (set)",
+      "shortDescription": " Complete vegetarian Nepali meal set.",
+      "fullDescription": "A satisfying vegetarian thali featuring steamed rice, lentil soup (dal), seasonal vegetable curry (tarkari), spicy pickle (achar), fermented greens (gundruk), curd, and papad.",
+      "features": ["Balanced vegetarian meal", "Homemade pickles", "Fresh seasonal vegetables"],
       "price": "Rs. 450/-"
     },
     {
