@@ -49,7 +49,7 @@ function createFoodCard(item, category) {
     
     card.innerHTML = `
         <div class="card-image">
-            <img src="https://via.placeholder.com/400x300?text=${encodeURIComponent(item.title)}" alt="${item.title}">
+            <img src="${item.image}" alt="${item.title}">
         </div>
         <div class="card-content">
             <h3>${item.title}</h3>
@@ -79,7 +79,7 @@ function showProductDetails(productId) {
     if (product) {
         modalContent.innerHTML = `
             <div class="modal-image">
-                <img src="https://via.placeholder.com/800x600?text=${encodeURIComponent(product.title)}" alt="${product.title}">
+                <img src="${product.image}" alt="${product.title}">
             </div>
             <div class="modal-details">
                 <h2>${product.title}</h2>
@@ -92,7 +92,7 @@ function showProductDetails(productId) {
                 </div>
                 
                 <div class="price">${product.price}</div>
-                <button class="btn">Add to Order</button>
+              
             </div>
         `;
         
