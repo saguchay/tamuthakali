@@ -1,47 +1,130 @@
 {
-  "Thakali Set": [
+  "Breakfast": [
     {
-      "id": "T001",
-      "image": "images/thakali_set.jpg",
-      "title": "Classic Thakali Set",
-      "shortDescription": "Dal, bhat, tarkari, achar, gundruk.",
-      "fullDescription": "A traditional Nepali Thakali meal with steamed rice, lentil soup, seasonal vegetables, spicy pickle, and fermented leafy greens. Served with complementary curd and papad.",
-      "features": ["Fresh organic vegetables", "Homemade achar", "Authentic gundruk", "Locally sourced rice"],
-      "price": "Rs. 450"
+      "id": "break001",
+      "image": "images/milktea.png",
+      "title": "Milk Tea",
+      "shortDescription": "Rich black tea simmered with milk and sugar.",
+      "fullDescription": "A comforting blend of robust black tea, steamed milk, and sugar, offering a classic creamy and sweet beverage.",
+      "features": ["Creamy texture", "Perfectly sweetened", "Freshly brewed tea"],
+      "price": "Rs. 65/-"
     },
     {
-      "id": "T002",
-      "image": "images/deluxe_set.jpg",
-      "title": "Deluxe Thakali Set",
+      "id": "break002",
+      "image": "images/buff_momo.jpg",
+      "title": "Black Tea",
       "shortDescription": "Enhanced set with additional meat options.",
       "fullDescription": "Our premium Thakali experience includes all components of the Classic Set plus your choice of chicken, mutton, or fish curry. Served with special mountain herbs tea.",
       "features": ["Choice of meat curry", "Extra side dishes", "Herbal mountain tea", "Traditional dessert"],
-      "price": "Rs. 650"
+      "price": "Rs. 50/-"
+    },
+    {
+      "id": "break003",
+      "image": "images/deluxe_set.jpg",
+      "title": "Phapar ko Roti + Aalu Dam",
+      "shortDescription": "Enhanced set with additional meat options.",
+      "fullDescription": "Our premium Thakali experience includes all components of the Classic Set plus your choice of chicken, mutton, or fish curry. Served with special mountain herbs tea.",
+      "features": ["Choice of meat curry", "Extra side dishes", "Herbal mountain tea", "Traditional dessert"],
+      "price": "Rs. 300/-"
+    },
+    {
+      "id": "break004",
+      "image": "images/deluxe_set.jpg",
+      "title": "Sel Roti + Aalu Dam",
+      "shortDescription": "Enhanced set with additional meat options.",
+      "fullDescription": "Our premium Thakali experience includes all components of the Classic Set plus your choice of chicken, mutton, or fish curry. Served with special mountain herbs tea.",
+      "features": ["Choice of meat curry", "Extra side dishes", "Herbal mountain tea", "Traditional dessert"],
+      "price": "Rs. 250/-"
+    },
+    {
+      "id": "break005",
+      "image": "images/thakali_set.jpg",
+      "title": "Kanchenbo (Buck Wheat Fry)",
+      "shortDescription": "Dal, bhat, tarkari, achar, gundruk.",
+      "fullDescription": "A traditional Nepali Thakali meal with steamed rice, lentil soup, seasonal vegetables, spicy pickle, and fermented leafy greens. Served with complementary curd and papad.",
+      "features": ["Fresh organic vegetables", "Homemade achar", "Authentic gundruk", "Locally sourced rice"],
+      "price": "Rs. 300/-"
     }
   ],
-  "Veg": [
+    "Thakali_Khana_set": [
     {
-      "id": "V001",
+      "id": "TK001",
+      "image": "images/thakali_set.jpg",
+      "title": "Veg Khana (set)",
+      "shortDescription": "Dal, bhat, tarkari, achar, gundruk.",
+      "fullDescription": "A traditional Nepali Thakali meal with steamed rice, lentil soup, seasonal vegetables, spicy pickle, and fermented leafy greens. Served with complementary curd and papad.",
+      "features": ["Fresh organic vegetables", "Homemade achar", "Authentic gundruk", "Locally sourced rice"],
+      "price": "Rs. 450/-"
+    },
+    {
+      "id": "TK002",
+      "image": "images/thakali_set.jpg",
+      "title": "Chicken Khana (set)",
+      "shortDescription": "Dal, bhat, tarkari, achar, gundruk.",
+      "fullDescription": "A traditional Nepali Thakali meal with steamed rice, lentil soup, seasonal vegetables, spicy pickle, and fermented leafy greens. Served with complementary curd and papad.",
+      "features": ["Fresh organic vegetables", "Homemade achar", "Authentic gundruk", "Locally sourced rice"],
+      "price": "Rs. 600/-"
+    },
+    {
+      "id": "TK003",
+      "image": "images/thakali_set.jpg",
+      "title": "Mutton Khana (set)",
+      "shortDescription": "Dal, bhat, tarkari, achar, gundruk.",
+      "fullDescription": "A traditional Nepali Thakali meal with steamed rice, lentil soup, seasonal vegetables, spicy pickle, and fermented leafy greens. Served with complementary curd and papad.",
+      "features": ["Fresh organic vegetables", "Homemade achar", "Authentic gundruk", "Locally sourced rice"],
+      "price": "Rs. 750/-"
+    },
+    {
+      "id": "TK004",
+      "image": "images/deluxe_set.jpg",
+      "title": "Fish Khana (set)",
+      "shortDescription": "Enhanced set with additional meat options.",
+      "fullDescription": "Our premium Thakali experience includes all components of the Classic Set plus your choice of chicken, mutton, or fish curry. Served with special mountain herbs tea.",
+      "features": ["Choice of meat curry", "Extra side dishes", "Herbal mountain tea", "Traditional dessert"],
+      "price": "Rs. 650/-"
+    }
+  ],
+  "Dhido Set": [
+    {
+      "id": "DS001",
       "image": "images/dal_bhat.jpg",
-      "title": "Vegetarian Dal Bhat",
+      "title": "Chicken Dhido (set)",
       "shortDescription": "Lentil soup with rice and vegetable curry.",
       "fullDescription": "A wholesome vegetarian meal featuring perfectly cooked lentils, steamed rice, and a selection of seasonal vegetable curries. Served with tangy pickles and crispy papad.",
       "features": ["Protein-rich lentils", "3 seasonal vegetables", "Homemade pickles", "Papad"],
-      "price": "Rs. 350"
+      "price": "Rs. 650/-"
+    },
+     {
+      "id": "DS002",
+      "image": "images/dal_bhat.jpg",
+      "title": "Mutton Dhido (set)",
+      "shortDescription": "Lentil soup with rice and vegetable curry.",
+      "fullDescription": "A wholesome vegetarian meal featuring perfectly cooked lentils, steamed rice, and a selection of seasonal vegetable curries. Served with tangy pickles and crispy papad.",
+      "features": ["Protein-rich lentils", "3 seasonal vegetables", "Homemade pickles", "Papad"],
+      "price": "Rs. 800/-"
+    },
+     {
+      "id": "DS003",
+      "image": "images/dal_bhat.jpg",
+      "title": "Fish Dhido (set)",
+      "shortDescription": "Lentil soup with rice and vegetable curry.",
+      "fullDescription": "A wholesome vegetarian meal featuring perfectly cooked lentils, steamed rice, and a selection of seasonal vegetable curries. Served with tangy pickles and crispy papad.",
+      "features": ["Protein-rich lentils", "3 seasonal vegetables", "Homemade pickles", "Papad"],
+      "price": "Rs. 700/-"
     },
     {
-      "id": "V002",
+      "id": "DS004",
       "image": "images/veggie_thali.jpg",
-      "title": "Vegetable Thali",
+      "title": "Fish Dhido (set)",
       "shortDescription": "Assortment of vegetable dishes with rice.",
       "fullDescription": "A balanced platter featuring five different vegetable preparations, dal, rice, roti, raita, and dessert. Perfect for experiencing the diversity of Nepali vegetarian cuisine.",
       "features": ["5 vegetable dishes", "Freshly made roti", "Homemade raita", "Seasonal dessert"],
-      "price": "Rs. 400"
+      "price": "Rs. 500/-"
     }
   ],
-  "Non-Veg": [
+  "Chop Suey (Non Veg)": [
     {
-      "id": "NV001",
+      "id": "CSNV001",
       "image": "images/chicken_curry.jpg",
       "title": "Chicken Curry",
       "shortDescription": "Spicy chicken curry with traditional spices.",
@@ -50,7 +133,7 @@
       "price": "Rs. 480"
     },
     {
-      "id": "NV002",
+      "id": "CSNV002",
       "image": "images/buff_momo.jpg",
       "title": "Buff Momo",
       "shortDescription": "Steamed buffalo dumplings with dipping sauce.",
@@ -59,9 +142,9 @@
       "price": "Rs. 320"
     }
   ],
-  "Desserts": [
+  "Appetizers (Non Veg)": [
     {
-      "id": "D001",
+      "id": "APPNV001",
       "image": "images/sel_roti.jpg",
       "title": "Sel Roti",
       "shortDescription": "Traditional Nepali rice doughnut.",
@@ -70,7 +153,7 @@
       "price": "Rs. 150"
     },
     {
-      "id": "D002",
+      "id": "APPNV002",
       "image": "images/jeri.jpg",
       "title": "Jeri (Jalebi)",
       "shortDescription": "Sweet pretzel-shaped dessert soaked in syrup.",
@@ -79,9 +162,181 @@
       "price": "Rs. 180"
     }
   ],
-  "Beverages": [
+  "Appetizers (Veg)": [
     {
-      "id": "B001",
+      "id": "APPV001",
+      "image": "images/sel_roti.jpg",
+      "title": "Sel Roti",
+      "shortDescription": "Traditional Nepali rice doughnut.",
+      "fullDescription": "A festive sweet bread made from rice flour, deep-fried to a perfect golden brown. Crispy on the outside, soft and chewy inside. Served with yogurt or fresh fruit.",
+      "features": ["Traditional recipe", "Crispy exterior", "Chewy interior", "Served warm"],
+      "price": "Rs. 150"
+    },
+    {
+      "id": "APPV002",
+      "image": "images/jeri.jpg",
+      "title": "Jeri (Jalebi)",
+      "shortDescription": "Sweet pretzel-shaped dessert soaked in syrup.",
+      "fullDescription": "Crispy swirls of fermented batter deep-fried and soaked in fragrant sugar syrup. Served warm with a sprinkle of nuts. A popular festival sweet across Nepal.",
+      "features": ["Crispy texture", "Saffron-infused syrup", "Served warm", "Garnished with nuts"],
+      "price": "Rs. 180"
+    }
+  ],
+  "Soup (Veg)": [
+    {
+      "id": "SUPV001",
+      "image": "images/sel_roti.jpg",
+      "title": "Sel Roti",
+      "shortDescription": "Traditional Nepali rice doughnut.",
+      "fullDescription": "A festive sweet bread made from rice flour, deep-fried to a perfect golden brown. Crispy on the outside, soft and chewy inside. Served with yogurt or fresh fruit.",
+      "features": ["Traditional recipe", "Crispy exterior", "Chewy interior", "Served warm"],
+      "price": "Rs. 150"
+    },
+    {
+      "id": "SUPV002",
+      "image": "images/jeri.jpg",
+      "title": "Jeri (Jalebi)",
+      "shortDescription": "Sweet pretzel-shaped dessert soaked in syrup.",
+      "fullDescription": "Crispy swirls of fermented batter deep-fried and soaked in fragrant sugar syrup. Served warm with a sprinkle of nuts. A popular festival sweet across Nepal.",
+      "features": ["Crispy texture", "Saffron-infused syrup", "Served warm", "Garnished with nuts"],
+      "price": "Rs. 180"
+    }
+  ],
+  "Soup (Non Veg)": [
+    {
+      "id": "SUPNV001",
+      "image": "images/sel_roti.jpg",
+      "title": "Sel Roti",
+      "shortDescription": "Traditional Nepali rice doughnut.",
+      "fullDescription": "A festive sweet bread made from rice flour, deep-fried to a perfect golden brown. Crispy on the outside, soft and chewy inside. Served with yogurt or fresh fruit.",
+      "features": ["Traditional recipe", "Crispy exterior", "Chewy interior", "Served warm"],
+      "price": "Rs. 150"
+    },
+    {
+      "id": "SUPNV002",
+      "image": "images/jeri.jpg",
+      "title": "Jeri (Jalebi)",
+      "shortDescription": "Sweet pretzel-shaped dessert soaked in syrup.",
+      "fullDescription": "Crispy swirls of fermented batter deep-fried and soaked in fragrant sugar syrup. Served warm with a sprinkle of nuts. A popular festival sweet across Nepal.",
+      "features": ["Crispy texture", "Saffron-infused syrup", "Served warm", "Garnished with nuts"],
+      "price": "Rs. 180"
+    }
+  ],
+
+  "Sizzler": [
+    {
+      "id": "SIZZ001",
+      "image": "images/sel_roti.jpg",
+      "title": "Sel Roti",
+      "shortDescription": "Traditional Nepali rice doughnut.",
+      "fullDescription": "A festive sweet bread made from rice flour, deep-fried to a perfect golden brown. Crispy on the outside, soft and chewy inside. Served with yogurt or fresh fruit.",
+      "features": ["Traditional recipe", "Crispy exterior", "Chewy interior", "Served warm"],
+      "price": "Rs. 150"
+    }
+  ],
+  "Rice": [
+    {
+      "id": "RICE001",
+      "image": "images/sel_roti.jpg",
+      "title": "Sel Roti",
+      "shortDescription": "Traditional Nepali rice doughnut.",
+      "fullDescription": "A festive sweet bread made from rice flour, deep-fried to a perfect golden brown. Crispy on the outside, soft and chewy inside. Served with yogurt or fresh fruit.",
+      "features": ["Traditional recipe", "Crispy exterior", "Chewy interior", "Served warm"],
+      "price": "Rs. 150"
+    },
+    {
+      "id": "RICE002",
+      "image": "images/jeri.jpg",
+      "title": "Jeri (Jalebi)",
+      "shortDescription": "Sweet pretzel-shaped dessert soaked in syrup.",
+      "fullDescription": "Crispy swirls of fermented batter deep-fried and soaked in fragrant sugar syrup. Served warm with a sprinkle of nuts. A popular festival sweet across Nepal.",
+      "features": ["Crispy texture", "Saffron-infused syrup", "Served warm", "Garnished with nuts"],
+      "price": "Rs. 180"
+    }
+  ],
+   "Noodles": [
+    {
+      "id": "NOODLES001",
+      "image": "images/sel_roti.jpg",
+      "title": "Sel Roti",
+      "shortDescription": "Traditional Nepali rice doughnut.",
+      "fullDescription": "A festive sweet bread made from rice flour, deep-fried to a perfect golden brown. Crispy on the outside, soft and chewy inside. Served with yogurt or fresh fruit.",
+      "features": ["Traditional recipe", "Crispy exterior", "Chewy interior", "Served warm"],
+      "price": "Rs. 150"
+    },
+    {
+      "id": "NOODLES002",
+      "image": "images/jeri.jpg",
+      "title": "Jeri (Jalebi)",
+      "shortDescription": "Sweet pretzel-shaped dessert soaked in syrup.",
+      "fullDescription": "Crispy swirls of fermented batter deep-fried and soaked in fragrant sugar syrup. Served warm with a sprinkle of nuts. A popular festival sweet across Nepal.",
+      "features": ["Crispy texture", "Saffron-infused syrup", "Served warm", "Garnished with nuts"],
+      "price": "Rs. 180"
+    }
+  ],
+   "MO MO": [
+    {
+      "id": "MOMO001",
+      "image": "images/sel_roti.jpg",
+      "title": "Sel Roti",
+      "shortDescription": "Traditional Nepali rice doughnut.",
+      "fullDescription": "A festive sweet bread made from rice flour, deep-fried to a perfect golden brown. Crispy on the outside, soft and chewy inside. Served with yogurt or fresh fruit.",
+      "features": ["Traditional recipe", "Crispy exterior", "Chewy interior", "Served warm"],
+      "price": "Rs. 150"
+    },
+    {
+      "id": "MOMO002",
+      "image": "images/jeri.jpg",
+      "title": "Jeri (Jalebi)",
+      "shortDescription": "Sweet pretzel-shaped dessert soaked in syrup.",
+      "fullDescription": "Crispy swirls of fermented batter deep-fried and soaked in fragrant sugar syrup. Served warm with a sprinkle of nuts. A popular festival sweet across Nepal.",
+      "features": ["Crispy texture", "Saffron-infused syrup", "Served warm", "Garnished with nuts"],
+      "price": "Rs. 180"
+    }
+  ],
+   "Buff Sukuti": [
+    {
+      "id": "BUFFSUKUTI001",
+      "image": "images/sel_roti.jpg",
+      "title": "Sel Roti",
+      "shortDescription": "Traditional Nepali rice doughnut.",
+      "fullDescription": "A festive sweet bread made from rice flour, deep-fried to a perfect golden brown. Crispy on the outside, soft and chewy inside. Served with yogurt or fresh fruit.",
+      "features": ["Traditional recipe", "Crispy exterior", "Chewy interior", "Served warm"],
+      "price": "Rs. 150"
+    },
+    {
+      "id": "BUFFSUKUTI002",
+      "image": "images/jeri.jpg",
+      "title": "Jeri (Jalebi)",
+      "shortDescription": "Sweet pretzel-shaped dessert soaked in syrup.",
+      "fullDescription": "Crispy swirls of fermented batter deep-fried and soaked in fragrant sugar syrup. Served warm with a sprinkle of nuts. A popular festival sweet across Nepal.",
+      "features": ["Crispy texture", "Saffron-infused syrup", "Served warm", "Garnished with nuts"],
+      "price": "Rs. 180"
+    }
+  ],
+     "Khaja Set": [
+    {
+      "id": "KHAJASET001",
+      "image": "images/sel_roti.jpg",
+      "title": "Sel Roti",
+      "shortDescription": "Traditional Nepali rice doughnut.",
+      "fullDescription": "A festive sweet bread made from rice flour, deep-fried to a perfect golden brown. Crispy on the outside, soft and chewy inside. Served with yogurt or fresh fruit.",
+      "features": ["Traditional recipe", "Crispy exterior", "Chewy interior", "Served warm"],
+      "price": "Rs. 150"
+    },
+    {
+      "id": "KHAJASET002",
+      "image": "images/jeri.jpg",
+      "title": "Jeri (Jalebi)",
+      "shortDescription": "Sweet pretzel-shaped dessert soaked in syrup.",
+      "fullDescription": "Crispy swirls of fermented batter deep-fried and soaked in fragrant sugar syrup. Served warm with a sprinkle of nuts. A popular festival sweet across Nepal.",
+      "features": ["Crispy texture", "Saffron-infused syrup", "Served warm", "Garnished with nuts"],
+      "price": "Rs. 180"
+    }
+  ],
+  "Curry": [
+    {
+      "id": "CU001",
       "image": "images/masala_tea.jpg",
       "title": "Masala Tea",
       "shortDescription": "Nepali-style spiced tea.",
@@ -90,7 +345,7 @@
       "price": "Rs. 80"
     },
     {
-      "id": "B002",
+      "id": "CU002",
       "image": "images/chang.jpg",
       "title": "Chyang (Rice Beer)",
       "shortDescription": "Traditional fermented rice beverage.",
