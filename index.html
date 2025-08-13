@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thakali Khana Set | Authentic Nepali Cuisine</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container header-container">
+            <a href="#" class="logo">Thakali<span>Khana</span></a>
+        </div>
+    </header>
+
+    <!-- Banner Section -->
+    <section class="banner">
+        <div class="video-container">
+            <video autoplay loop muted playsinline>
+                <source src="banner_video.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-overlay"></div>
+        </div>
+        <div class="container">
+            <div class="banner-content">
+                <h1>Authentic Nepali Thakali Cuisine</h1>
+                <p>Experience the rich flavors and cultural heritage of Nepal through our traditional Thakali Khana Set</p>
+                <a href="#menu" class="btn">Explore Our Menu</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about" id="about">
+        <div class="container">
+            <h2 class="section-title">Our Story</h2>
+            <div class="about-content">
+                <p>Thakali Khana Set restaurant brings the authentic flavors of Nepal's Thak Khola region to your table. Our culinary journey began with a passion for preserving the traditional recipes passed down through generations of Thakali people.</p>
+                <p>We carefully prepare each dish using time-honored techniques and the freshest ingredients to create a dining experience that reflects the cultural heritage and hospitality of Nepal. Our signature Thakali Khana Set is a balanced meal that nourishes both body and soul.</p>
+                <p>At our restaurant, we believe that food is more than sustenance - it's a celebration of culture, community, and the natural bounty of the Himalayas.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Menu Section -->
+    <section class="menu" id="menu">
+        <div class="container">
+            <h2 class="section-title">Our Menu</h2>
+            <div class="categories">
+                <button class="category-btn active" data-category="all">All Items</button>
+                <button class="category-btn" data-category="Thakali Set">Thakali Sets</button>
+                <button class="category-btn" data-category="Veg">Vegetarian</button>
+                <button class="category-btn" data-category="Non-Veg">Non-Vegetarian</button>
+                <button class="category-btn" data-category="Desserts">Desserts</button>
+                <button class="category-btn" data-category="Beverages">Beverages</button>
+            </div>
+            <div class="menu-grid" id="menuGrid">
+                <!-- Menu items will be loaded here by JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-column">
+                    <h3>Contact Us</h3>
+                    <ul class="contact-info">
+                        <li><i class="fas fa-map-marker-alt"></i> 123 Taste Street, Kathmandu, Nepal</li>
+                        <li><i class="fas fa-phone"></i> +977 1 1234567</li>
+                        <li><i class="fas fa-envelope"></i> info@thakalikhanaset.com</li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Opening Hours</h3>
+                    <ul class="contact-info">
+                        <li>Monday - Friday: 11:00 AM - 10:00 PM</li>
+                        <li>Saturday: 10:00 AM - 11:00 PM</li>
+                        <li>Sunday: 10:00 AM - 9:00 PM</li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Payment Methods</h3>
+                    <p>We accept cash and all major credit cards</p>
+                    <div class="qr-code">
+                        <div class="qr-placeholder">Payment QR Code</div>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2023 Thakali Khana Set Restaurant. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Modal for Product Details -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal">
+            <div class="close-modal" id="closeModal">×</div>
+            <div class="modal-content" id="modalContent">
+                <!-- Modal content will be loaded here by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

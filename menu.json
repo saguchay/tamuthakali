@@ -1,0 +1,102 @@
+{
+  "Thakali Set": [
+    {
+      "id": "T001",
+      "image": "images/thakali_set.jpg",
+      "title": "Classic Thakali Set",
+      "shortDescription": "Dal, bhat, tarkari, achar, gundruk.",
+      "fullDescription": "A traditional Nepali Thakali meal with steamed rice, lentil soup, seasonal vegetables, spicy pickle, and fermented leafy greens. Served with complementary curd and papad.",
+      "features": ["Fresh organic vegetables", "Homemade achar", "Authentic gundruk", "Locally sourced rice"],
+      "price": "Rs. 450"
+    },
+    {
+      "id": "T002",
+      "image": "images/deluxe_set.jpg",
+      "title": "Deluxe Thakali Set",
+      "shortDescription": "Enhanced set with additional meat options.",
+      "fullDescription": "Our premium Thakali experience includes all components of the Classic Set plus your choice of chicken, mutton, or fish curry. Served with special mountain herbs tea.",
+      "features": ["Choice of meat curry", "Extra side dishes", "Herbal mountain tea", "Traditional dessert"],
+      "price": "Rs. 650"
+    }
+  ],
+  "Veg": [
+    {
+      "id": "V001",
+      "image": "images/dal_bhat.jpg",
+      "title": "Vegetarian Dal Bhat",
+      "shortDescription": "Lentil soup with rice and vegetable curry.",
+      "fullDescription": "A wholesome vegetarian meal featuring perfectly cooked lentils, steamed rice, and a selection of seasonal vegetable curries. Served with tangy pickles and crispy papad.",
+      "features": ["Protein-rich lentils", "3 seasonal vegetables", "Homemade pickles", "Papad"],
+      "price": "Rs. 350"
+    },
+    {
+      "id": "V002",
+      "image": "images/veggie_thali.jpg",
+      "title": "Vegetable Thali",
+      "shortDescription": "Assortment of vegetable dishes with rice.",
+      "fullDescription": "A balanced platter featuring five different vegetable preparations, dal, rice, roti, raita, and dessert. Perfect for experiencing the diversity of Nepali vegetarian cuisine.",
+      "features": ["5 vegetable dishes", "Freshly made roti", "Homemade raita", "Seasonal dessert"],
+      "price": "Rs. 400"
+    }
+  ],
+  "Non-Veg": [
+    {
+      "id": "NV001",
+      "image": "images/chicken_curry.jpg",
+      "title": "Chicken Curry",
+      "shortDescription": "Spicy chicken curry with traditional spices.",
+      "fullDescription": "Tender chicken pieces slow-cooked in a rich blend of traditional Nepali spices and herbs. Served with steamed rice and achar. A flavorful journey to the Himalayas.",
+      "features": ["Free-range chicken", "Traditional spice blend", "Slow-cooked for tenderness", "Served with rice"],
+      "price": "Rs. 480"
+    },
+    {
+      "id": "NV002",
+      "image": "images/buff_momo.jpg",
+      "title": "Buff Momo",
+      "shortDescription": "Steamed buffalo dumplings with dipping sauce.",
+      "fullDescription": "Delicate dumplings filled with seasoned buffalo meat, steamed to perfection. Served with our signature tomato achar and sesame chutney. A Nepali street food classic.",
+      "features": ["Traditional buffalo filling", "Handmade wrappers", "Two signature sauces", "12 pieces per serving"],
+      "price": "Rs. 320"
+    }
+  ],
+  "Desserts": [
+    {
+      "id": "D001",
+      "image": "images/sel_roti.jpg",
+      "title": "Sel Roti",
+      "shortDescription": "Traditional Nepali rice doughnut.",
+      "fullDescription": "A festive sweet bread made from rice flour, deep-fried to a perfect golden brown. Crispy on the outside, soft and chewy inside. Served with yogurt or fresh fruit.",
+      "features": ["Traditional recipe", "Crispy exterior", "Chewy interior", "Served warm"],
+      "price": "Rs. 150"
+    },
+    {
+      "id": "D002",
+      "image": "images/jeri.jpg",
+      "title": "Jeri (Jalebi)",
+      "shortDescription": "Sweet pretzel-shaped dessert soaked in syrup.",
+      "fullDescription": "Crispy swirls of fermented batter deep-fried and soaked in fragrant sugar syrup. Served warm with a sprinkle of nuts. A popular festival sweet across Nepal.",
+      "features": ["Crispy texture", "Saffron-infused syrup", "Served warm", "Garnished with nuts"],
+      "price": "Rs. 180"
+    }
+  ],
+  "Beverages": [
+    {
+      "id": "B001",
+      "image": "images/masala_tea.jpg",
+      "title": "Masala Tea",
+      "shortDescription": "Nepali-style spiced tea.",
+      "fullDescription": "Strong black tea boiled with milk and a blend of Nepali spices including cardamom, cinnamon, ginger, and cloves. A warming drink perfect for any time of day.",
+      "features": ["Organic tea leaves", "Natural spices", "Fresh milk", "Served hot"],
+      "price": "Rs. 80"
+    },
+    {
+      "id": "B002",
+      "image": "images/chang.jpg",
+      "title": "Chyang (Rice Beer)",
+      "shortDescription": "Traditional fermented rice beverage.",
+      "fullDescription": "An ancient Himalayan beverage made from fermented rice or millet. Mildly alcoholic with a distinctive sour flavor. Served in traditional wooden containers.",
+      "features": ["Traditional fermentation", "Mild alcohol content", "Served in wooden containers", "Cultural experience"],
+      "price": "Rs. 200"
+    }
+  ]
+}
